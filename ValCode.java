@@ -1,4 +1,4 @@
-package org.example;
+package indi.newbieking;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
